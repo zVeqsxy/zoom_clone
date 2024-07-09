@@ -6,7 +6,7 @@ This project is a clone of Zoom, a video conferencing software. It is built usin
 
 This project is a comprehensive video conferencing platform designed to facilitate seamless online meetings, closely mirroring the capabilities of industry-leading software like Zoom. Built with Next.js, Clerk, Stream, and other cutting-edge technologies, it offers a robust set of features tailored for both individual and corporate use.
 
-### **Note**: This project is still under development and actively evolving. While the core features are fully operational, additional enhancements are on the way to further enrich the platform.
+### **Note**: This project is still under development and is actively evolving. While the core features are fully operational, additional enhancements are on the way to further enrich the platform.
 
 ## Features
 
