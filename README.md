@@ -57,4 +57,4 @@ This project is a comprehensive video conferencing platform designed to facilita
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
